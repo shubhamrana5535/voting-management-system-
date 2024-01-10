@@ -1,1 +1,1 @@
-# voting-management-system-
+Vote Portal: Created a secure voting portal for student elections, enabling users to cast their votes online. The frontend was designed using HTML, CSS, and Bootstrap to ensure a seamless voting experience.
